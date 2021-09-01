@@ -58,3 +58,44 @@ h1 {
     border-bottom: 1px solid lightgrey;
 }
 
+.section {
+    padding-left: 50px;
+    margin-top: 25px;
+}
+
+.badge {
+    width: 65px;
+    height: 20px;
+    font-size: 11px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+}
+
+.bdg-blue {
+    background-color: rgb(45, 145, 233);
+}
+
+.bdg-violet {
+    background-color: rgb(138, 33, 213);
+}
+
+.bdg-green {
+    background-color: rgb(59, 196, 132);
+}
+
+.bdg-orange {
+    background-color: rgb(232, 150, 49);
+}
+
+.bdg-pink {
+    background-color: rgb(230, 60, 230);
+}
+
+.bdg-green-2 {
+    background-color: rgb(13, 213, 43);
+}
+
+.section>div {
+    margin: 10px;
+}
